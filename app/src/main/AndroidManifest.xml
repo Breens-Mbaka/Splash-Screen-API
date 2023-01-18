@@ -9,7 +9,7 @@
         android:icon="@mipmap/ic_commute"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.InstagramSplashScreenTheme"
+        android:theme="@style/Theme.CommuteSplashScreenTheme"
         tools:targetApi="31">
         <activity
             android:name=".MainActivity"
