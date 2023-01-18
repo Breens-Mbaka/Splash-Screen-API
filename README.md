@@ -1,5 +1,5 @@
 ## Splash Screen API
-A project used to demonstrate how to create a Splash Screen using the Splash Screen API in a video tutorial
+A project used to demonstrate how to create a Splash Screen using the Splash Screen API
 
 ## Demo
 <p align="center">
